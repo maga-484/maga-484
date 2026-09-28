@@ -10,7 +10,7 @@ Desarrolladora web full-stack 💻
 
 **Idiomas:** Español · Inglés
 
-**Ubicación:** Buenos Aires, Argentina
+**Ubicación:** Buenos Aires, Argentina 📍
 
 ![Magali's GitHub stats](https://github-readme-stats.vercel.app/api?username=maga-484&show_icons=true&theme=default)
 
@@ -24,6 +24,11 @@ Desarrolladora web full-stack 💻
 
 ---
 
+### Actualmente
+
+- 🚀 Mejorando el deploy del [E-Commerce Clone](https://github.com/maga-484/ecommerce_clone) con backend en producción
+- 📚 Aprendiendo Docker y CI/CD
+- 
 ### Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/magal%C3%AD-gafe-713224ab/)
